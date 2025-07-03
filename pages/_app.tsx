@@ -1,4 +1,5 @@
 // fragment in _app.tsx
+import "@/styles/globals.css";
 import { AppProps } from "next/app";
 import Link from "next/link";
 import { useEffect, useState } from "react";
